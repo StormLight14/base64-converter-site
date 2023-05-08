@@ -1,1 +1,0 @@
-/home/storm/Documents/Rust_Projects/apps/base64-converter-site/target/wasm32-unknown-unknown/debug/stormlightcandev.wasm: /home/storm/Documents/Rust_Projects/apps/base64-converter-site/src/app.rs /home/storm/Documents/Rust_Projects/apps/base64-converter-site/src/main.rs
