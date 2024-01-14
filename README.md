@@ -1,2 +1,2 @@
 # base64-converter-site
-http://stormlightcandev.xyz/base64/
+http://stormlight.netlify.app/base64-converter
